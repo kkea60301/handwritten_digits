@@ -1,0 +1,5 @@
+opencv-python == 4.11.0.86
+keras == 3.10.0
+tensorflow ==2.19.0
+matplotlib == 3.10.3
+scikit-learn == 1.6.1
